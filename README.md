@@ -18,7 +18,7 @@
 ```
 yarn install
 ```
- - Após o término da instalação das dependências, iremos construir o banco de dados da aplicação. Para isso, crie um arquivo .env na pasta raiz do projeto e copie o conteúdo do arquivo .env.example e preencha com as configurações do banco de dados mysql da sua máquina.
+ - Após o término da instalação das dependências, iremos construir o banco de dados da aplicação. Para isso, crie um arquivo de nome '.env' na pasta raiz do projeto e copie o conteúdo do arquivo '.env.example' e preencha com as configurações do banco de dados mysql da sua máquina.
 ```
 DB_HOST= Digite o host.
 DB_USER= Digite o seu nome do usuário do banco de dados.
